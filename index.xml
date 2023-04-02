@@ -6,5 +6,21 @@
     <description>Recent content on Seohyun Kim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://kim-s-h.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://kim-s-h.github.io/about/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kim-s-h.github.io/about/</guid>
+      <description>My name is Seohyun Kim. I am a biostatistician at Kaiser Permanente. I studied quantitative methodologies for my PhD. I love developing useful models, visualizing data, coffee, hiking, and yoga.
+🐙 @Kim-s-h
+🍧 Kim-s-h.github.io
+✉️ sseohyun@gmail.com
+EducationUniversity of Georgia, Athens, GA
+Ph.D. in Quantitative Methodology in 2019 Seoul National University, South Korea
+M.S. in Statistics in 2013 Chonnam National University, South Korea
+B.S. in Mathematics Education in 2008 EmploymentMid-Atlantic Permanente Medical Group (MAPMG)</description>
+    </item>
+    
   </channel>
 </rss>
