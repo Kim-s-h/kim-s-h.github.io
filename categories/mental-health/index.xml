@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mental health on Seohyun Kim</title>
+    <link>https://kim-s-h.github.io/categories/mental-health/</link>
+    <description>Recent content in Mental health on Seohyun Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kim-s-h.github.io/categories/mental-health/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COVID-19 and Adolescent Outpatient Mental Health Service Utilization: an interrupted time series analysis</title>
+      <link>https://kim-s-h.github.io/publication/2023-06-09-covid19-interrupted-time-series/</link>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kim-s-h.github.io/publication/2023-06-09-covid19-interrupted-time-series/</guid>
+      <description>AbstractThe COVID-19 pandemic created challenges accessing mental health (MH) services when adolescent well-being declined. Still, little is known on how the COVID-19 pandemic affected outpatient MH service utilization for adolescents. Retrospective data was collected from electronic medical records of adolescents aged 12 to 17 years at Kaiser Permanente Mid-Atlantic States, an integrated healthcare system from January 2019 to December 2021. MH diagnoses included anxiety, mood disorder/depression, anxiety and mood disorder/depression, attention deficit/hyperactivity disorder, or psychosis.</description>
+    </item>
+    
+  </channel>
+</rss>

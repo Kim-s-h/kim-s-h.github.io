@@ -88,5 +88,32 @@
       <description></description>
     </item>
     
+    <item>
+      <title>COVID-19</title>
+      <link>https://kim-s-h.github.io/categories/covid-19/</link>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kim-s-h.github.io/categories/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interrupted time series analysis</title>
+      <link>https://kim-s-h.github.io/categories/interrupted-time-series-analysis/</link>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kim-s-h.github.io/categories/interrupted-time-series-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mental health</title>
+      <link>https://kim-s-h.github.io/categories/mental-health/</link>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kim-s-h.github.io/categories/mental-health/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
