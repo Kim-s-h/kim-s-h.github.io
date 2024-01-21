@@ -5,7 +5,8 @@
     <link>https://kim-s-h.github.io/</link>
     <description>Recent content on Seohyun Kim</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://kim-s-h.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kim-s-h.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://kim-s-h.github.io/about/</link>
@@ -13,6 +14,24 @@
       
       <guid>https://kim-s-h.github.io/about/</guid>
       <description>Hi there! I&amp;rsquo;m a PhD-trained statistician with over 10 years of experience in analyzing data arising from healthcare and social science research using advanced quantitative methods. My research interests include applications of statistics and machine learning in the healthcare and social sciences fields, communicating data through visualization, and teaching statistical concepts to a general audience. I work on projects that use electronic health record data to investigate risk factors for health outcomes and build clinical prediction models.</description>
+    </item>
+    
+    <item>
+      <title>Exploring examinees’ responses to constructed response items with a supervised topic model</title>
+      <link>https://kim-s-h.github.io/publication/2023-09-13-mixslda/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kim-s-h.github.io/publication/2023-09-13-mixslda/</guid>
+      <description>AbstractTextual data are increasingly common in test data as many assessments include constructed response (CR) items as indicators of participants&amp;rsquo; understanding. The development of techniques based on natural language processing has made it possible for researchers to rapidly analyse large sets of textual data. One family of statistical techniques for this purpose are probabilistic topic models. Topic modelling is a technique for detecting the latent topic structure in a collection of documents and has been widely used to analyse texts in a variety of areas.</description>
+    </item>
+    
+    <item>
+      <title>Association Between Body Fat and Body Mass Index from Incomplete Longitudinal Proportion Data: Findings from the Fels Study</title>
+      <link>https://kim-s-h.github.io/publication/2023-06-15-fels-study/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kim-s-h.github.io/publication/2023-06-15-fels-study/</guid>
+      <description>AbstractObesity rates continue to exhibit an upward trajectory, particularly in the US, and is the underlying cause of several comorbidities, including but not limited to high blood pressure, high cholesterol, diabetes, heart disease, stroke, and cancers. To monitor obesity, body mass index (BMI) and proportion body fat (PBF) are two commonly used measurements. Although BMI and PBF changes over time in an individual’s lifespan and their relationship may also change dynamically, existing work has mostly remained cross-sectional, or separately modeling BMI and PBF.</description>
     </item>
     
   </channel>

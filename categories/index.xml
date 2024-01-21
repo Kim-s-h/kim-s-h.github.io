@@ -5,6 +5,88 @@
     <link>https://kim-s-h.github.io/categories/</link>
     <description>Recent content in Categories on Seohyun Kim</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://kim-s-h.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kim-s-h.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bayesian estimation</title>
+      <link>https://kim-s-h.github.io/categories/bayesian-estimation/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kim-s-h.github.io/categories/bayesian-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>latent group analysis</title>
+      <link>https://kim-s-h.github.io/categories/latent-group-analysis/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kim-s-h.github.io/categories/latent-group-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://kim-s-h.github.io/categories/research/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kim-s-h.github.io/categories/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text analysis</title>
+      <link>https://kim-s-h.github.io/categories/text-analysis/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kim-s-h.github.io/categories/text-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topic modeling</title>
+      <link>https://kim-s-h.github.io/categories/topic-modeling/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kim-s-h.github.io/categories/topic-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individually varying time series</title>
+      <link>https://kim-s-h.github.io/categories/individually-varying-time-series/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kim-s-h.github.io/categories/individually-varying-time-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent growth curve model</title>
+      <link>https://kim-s-h.github.io/categories/latent-growth-curve-model/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kim-s-h.github.io/categories/latent-growth-curve-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Missing data</title>
+      <link>https://kim-s-h.github.io/categories/missing-data/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kim-s-h.github.io/categories/missing-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proportion data</title>
+      <link>https://kim-s-h.github.io/categories/proportion-data/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kim-s-h.github.io/categories/proportion-data/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

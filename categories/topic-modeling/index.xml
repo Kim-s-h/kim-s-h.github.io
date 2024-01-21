@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topic modeling on Seohyun Kim</title>
+    <link>https://kim-s-h.github.io/categories/topic-modeling/</link>
+    <description>Recent content in Topic modeling on Seohyun Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kim-s-h.github.io/categories/topic-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring examinees’ responses to constructed response items with a supervised topic model</title>
+      <link>https://kim-s-h.github.io/publication/2023-09-13-mixslda/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kim-s-h.github.io/publication/2023-09-13-mixslda/</guid>
+      <description>AbstractTextual data are increasingly common in test data as many assessments include constructed response (CR) items as indicators of participants&amp;rsquo; understanding. The development of techniques based on natural language processing has made it possible for researchers to rapidly analyse large sets of textual data. One family of statistical techniques for this purpose are probabilistic topic models. Topic modelling is a technique for detecting the latent topic structure in a collection of documents and has been widely used to analyse texts in a variety of areas.</description>
+    </item>
+    
+  </channel>
+</rss>
