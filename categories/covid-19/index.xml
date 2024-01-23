@@ -26,5 +26,14 @@
 Methods: Our retrospective cohort study analyzed adolescents aged 12–17 years with a mental health diagnosis as identified in the electronic medical record enrolled in Kaiser Permanente Mid-Atlantic States in Maryland and Virginia, a comprehensive integrated health system.</description>
     </item>
     
+    <item>
+      <title>Post-acute Sequelae of SARS-CoV-2 with Clinical Condition Definitions and Comparison in a Matched Cohort</title>
+      <link>https://kim-s-h.github.io/publication/2022-10-12-pas-covid-19/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kim-s-h.github.io/publication/2022-10-12-pas-covid-19/</guid>
+      <description>AbstractDisease characterization of Post-Acute Sequelae of SARS-CoV-2 (PASC) does not account for pre-existing conditions and time course of incidence. We utilized longitudinal data and matching to a COVID PCR-negative population to discriminate PASC conditions over time within our patient population during 2020. Clinical Classification Software was used to identify PASC condition groupings. Conditions were specified acute and persistent (occurring 0-30 days post COVID PCR and persisted 30–120 days post-test) or late (occurring initially 30-120 days post-test).</description>
+    </item>
+    
   </channel>
 </rss>

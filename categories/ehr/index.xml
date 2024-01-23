@@ -1,30 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication on Seohyun Kim</title>
-    <link>https://kim-s-h.github.io/publication/</link>
-    <description>Recent content in Publication on Seohyun Kim</description>
+    <title>EHR on Seohyun Kim</title>
+    <link>https://kim-s-h.github.io/categories/ehr/</link>
+    <description>Recent content in EHR on Seohyun Kim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kim-s-h.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Exploring Examinees’ Responses to Constructed Response Items with a Supervised Topic Model</title>
-      <link>https://kim-s-h.github.io/publication/2023-09-13-mixslda/</link>
-      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://kim-s-h.github.io/publication/2023-09-13-mixslda/</guid>
-      <description>AbstractTextual data are increasingly common in test data as many assessments include constructed response (CR) items as indicators of participants&amp;rsquo; understanding. The development of techniques based on natural language processing has made it possible for researchers to rapidly analyse large sets of textual data. One family of statistical techniques for this purpose are probabilistic topic models. Topic modelling is a technique for detecting the latent topic structure in a collection of documents and has been widely used to analyse texts in a variety of areas.</description>
-    </item>
-    
-    <item>
-      <title>Association Between Body Fat and Body Mass Index from Incomplete Longitudinal Proportion Data: Findings from the Fels Study</title>
-      <link>https://kim-s-h.github.io/publication/2023-06-15-fels-study/</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://kim-s-h.github.io/publication/2023-06-15-fels-study/</guid>
-      <description>AbstractObesity rates continue to exhibit an upward trajectory, particularly in the US, and is the underlying cause of several comorbidities, including but not limited to high blood pressure, high cholesterol, diabetes, heart disease, stroke, and cancers. To monitor obesity, body mass index (BMI) and proportion body fat (PBF) are two commonly used measurements. Although BMI and PBF changes over time in an individual’s lifespan and their relationship may also change dynamically, existing work has mostly remained cross-sectional, or separately modeling BMI and PBF.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 09 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kim-s-h.github.io/categories/ehr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>COVID-19 and Adolescent Outpatient Mental Health Service Utilization: an interrupted time series analysis</title>
       <link>https://kim-s-h.github.io/publication/2023-06-09-covid19-interrupted-time-series/</link>
