@@ -62,5 +62,14 @@ Methods: Our retrospective cohort study analyzed adolescents aged 12–17 years 
       <description>AbstractDisease characterization of Post-Acute Sequelae of SARS-CoV-2 (PASC) does not account for pre-existing conditions and time course of incidence. We utilized longitudinal data and matching to a COVID PCR-negative population to discriminate PASC conditions over time within our patient population during 2020. Clinical Classification Software was used to identify PASC condition groupings. Conditions were specified acute and persistent (occurring 0-30 days post COVID PCR and persisted 30–120 days post-test) or late (occurring initially 30-120 days post-test).</description>
     </item>
     
+    <item>
+      <title>Modeling Latent Topics in Social Media using Dynamic Exploratory Graph Analysis: The Case of the Right-wing and Left-wing Trolls in the 2016 US Elections</title>
+      <link>https://kim-s-h.github.io/publication/2021-11-10-modeling-latent-topics/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kim-s-h.github.io/publication/2021-11-10-modeling-latent-topics/</guid>
+      <description>AbstractThe past few years were marked by increased online offensive strategies perpetrated by state and non-state actors to promote their political agenda, sow discord, and question the legitimacy of democratic institutions in the US and Western Europe. In 2016, the US congress identified a list of Russian state-sponsored Twitter accounts that were used to try to divide voters on a wide range of issues. Previous research used latent Dirichlet allocation (LDA) to estimate latent topics in data extracted from these accounts.</description>
+    </item>
+    
   </channel>
 </rss>
